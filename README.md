@@ -1,5 +1,7 @@
 👋 Hi, I’m Nguyen Thu Phuong.
+
 👀 I’m interested in listening music and playing sports.
+
 🌱 **I’m currently learning**  
   - 🚀 Exploring the world of **Machine Learning**, **AI**, and **Deep Learning**.  
   - 📚 Diving into **Computer Vision** and working with **TensorFlow** & **PyTorch**.
