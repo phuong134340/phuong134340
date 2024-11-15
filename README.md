@@ -1,6 +1,6 @@
-👋 Hi, I’m Nguyen Thu Phuong.
+👋 **Hi, I’m Nguyen Thu Phuong.**  
 
-👀 I’m interested in listening music and playing sports.
+👀 **I’m interested in listening to music and playing sports.**
 
 🌱 **I’m currently learning**  
   - 🚀 Exploring the world of **Machine Learning**, **AI**, and **Deep Learning**.  
