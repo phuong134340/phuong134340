@@ -17,7 +17,7 @@
 😄 **Pronouns**: Phuong
 
 ⚡ **Fun fact**  
-  i have a crush on iTeddy1.
+ 
 
 
 <!---
