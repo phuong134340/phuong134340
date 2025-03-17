@@ -6,7 +6,7 @@
 
 😄 **Pronouns**: Phuong
 
-⚡ **Fun fact**  
+⚡ **Fun fact**: khong co  
  
 
 
