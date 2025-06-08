@@ -2,7 +2,7 @@
 
 📫 **How to reach me**  
   - 📧 Shoot me an email at: nguyenthuphuong2004.qc@gmail.com  
-  - 🐦 Find me on Facebook: https://www.facebook.com/profile.php?id=100033970742660&mibextid=ZbWKwL
+  - 🐦 Find me on Facebook:  https://www.facebook.com/ThuPhuong180304/
 
 😄 **Pronouns**: Phuong
 
