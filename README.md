@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+My+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi,+I'm+Thu+Phuong!!!" alt="Typing SVG" />
 </p>
 
 
----
+<hr style="border: 1px solid #FFB6C1;">
 
 ## 👩🏻‍💻 About Me
 I am a third-year student at the **University of Information Technology, Vietnam National University, Ho Chi Minh City**, majoring in **Computer Science**.  
@@ -17,7 +17,7 @@ I’m eager to learn, experiment, and collaborate with like-minded individuals i
 - 🔍 Always exploring new AI frameworks & tools  
 - 🤝 Open to collaborate on **AI/ML research & projects**
 
----
+<hr style="border: 1px solid #FFB6C1;">
 
 ## 🛠 Skills
 <p align="center">
@@ -30,7 +30,7 @@ I’m eager to learn, experiment, and collaborate with like-minded individuals i
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
----
+<hr style="border: 1px solid #FFB6C1;">
 
 ## 🧠 AI/ML Tools & Libraries
 <p align="center">
@@ -42,7 +42,7 @@ I’m eager to learn, experiment, and collaborate with like-minded individuals i
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
----
+<hr style="border: 1px solid #FFB6C1;">
 
 ## 📫 Connect with Me
 <p align="center">
@@ -60,6 +60,6 @@ I’m eager to learn, experiment, and collaborate with like-minded individuals i
   </a>
 </p>
 
----
+<hr style="border: 1px solid #FFB6C1;">
 
 <p align="center">✨ *Building the future with AI & a cup of tea* ✨</p>
