@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi,+I'm+Thu+Phuong!!!" alt="Typing SVG" />
 </p>
 
-
 <hr style="border: 1px solid #FFB6C1;">
 
 ## 👩🏻‍💻 About Me
@@ -13,7 +12,7 @@ I’m eager to learn, experiment, and collaborate with like-minded individuals i
 - 📍 Based in Ho Chi Minh City, Vietnam  
 - 📚 Currently focusing on **Machine Learning, Deep Learning, and Computer Vision**  
 - 🐍 Strong in **Python** for AI/ML development  
-- ☕ Love coding late at night with bubble tea 
+- ☕ Love coding late at night with bubble tea  
 - 🔍 Always exploring new AI frameworks & tools  
 - 🤝 Open to collaborate on **AI/ML research & projects**
 
@@ -40,6 +39,16 @@ I’m eager to learn, experiment, and collaborate with like-minded individuals i
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-FF69B4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-FFB6C1?style=for-the-badge&logo=knowledgebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM-FF69B4?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+<hr style="border: 1px solid #FFB6C1;">
+
+## 🗄 Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 <hr style="border: 1px solid #FFB6C1;">
@@ -56,7 +65,7 @@ I’m eager to learn, experiment, and collaborate with like-minded individuals i
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/ThuPhuong180304">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-FF69B4?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
 
