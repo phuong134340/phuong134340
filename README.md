@@ -1,4 +1,7 @@
-<h1 align="center">🤖 Welcome to My AI/ML Space 🚀</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=🤖+Welcome+to+My+Profile+🚀" alt="Typing SVG" />
+</p>
+
 
 ---
 
@@ -10,7 +13,7 @@ I’m eager to learn, experiment, and collaborate with like-minded individuals i
 - 📍 Based in Ho Chi Minh City, Vietnam  
 - 📚 Currently focusing on **Machine Learning, Deep Learning, and Computer Vision**  
 - 🐍 Strong in **Python** for AI/ML development  
-- ☕ Love coding late at night with coffee  
+- ☕ Love coding late at night with bubble tea 
 - 🔍 Always exploring new AI frameworks & tools  
 - 🤝 Open to collaborate on **AI/ML research & projects**
 
@@ -56,4 +59,4 @@ I’m eager to learn, experiment, and collaborate with like-minded individuals i
 
 ---
 
-<p align="center">✨ *Building the future with AI & a cup of coffee* ✨</p>
+<p align="center">✨ *Building the future with AI & a cup of tea* ✨</p>
