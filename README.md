@@ -19,6 +19,8 @@ I’m eager to learn, experiment, and collaborate with like-minded individuals i
 ---
 
 ## 🛠 Skills
+
+### 💻 Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -26,12 +28,21 @@ I’m eager to learn, experiment, and collaborate with like-minded individuals i
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
----
+### 🧠 AI/ML Domains
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM-FF69B4?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-FF69B4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge&logo=knowledgebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OCR-FF4500?style=for-the-badge&logo=tesseract&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Image%20Classification-008080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Object%20Detection-006400?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Image%20Segmentation-800080?style=for-the-badge"/>
+</p>
 
-## 🧠 AI/ML Tools & Libraries
+### 📚 AI/ML Tools & Libraries
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -39,16 +50,18 @@ I’m eager to learn, experiment, and collaborate with like-minded individuals i
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-FF69B4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge&logo=knowledgebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLM-FF69B4?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
----
-
-## 🗄 Databases
+### 🗄 Databases
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### 🛠 Developer Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
