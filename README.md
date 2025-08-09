@@ -5,22 +5,20 @@
 ---
 
 ## 👩🏻‍💻 About Me
-I am a third-year student at the **University of Information Technology, Vietnam National University, Ho Chi Minh City**, majoring in **Computer Science**.  
+I am a Senior student at the **University of Information Technology, Vietnam National University, Ho Chi Minh City**, majoring in **Computer Science**.  
 I am passionate about **Artificial Intelligence** and **Machine Learning**, and I enjoy building intelligent systems that can make a real-world impact.  
 I’m eager to learn, experiment, and collaborate with like-minded individuals in the AI/ML community.
 
 - 📍 Based in Ho Chi Minh City, Vietnam  
-- 📚 Currently focusing on **Machine Learning, Deep Learning, and Computer Vision**  
+- 📚 Currently focusing on **Machine Learning, Computer Vision, and Natural Language Processing**   
 - 🐍 Strong in **Python** for AI/ML development  
-- ☕ Love coding late at night with bubble tea  
+- ☕ Love coding late at night 
 - 🔍 Always exploring new AI frameworks & tools  
 - 🤝 Open to collaborate on **AI/ML research & projects**
 
 ---
 
-## 🛠 Skills
-
-### 💻 Programming Languages
+## 🛠 Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -30,19 +28,19 @@ I’m eager to learn, experiment, and collaborate with like-minded individuals i
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### 🧠 AI/ML Domains
+---
+
+## 🧠 AI/ML Domains
 <p align="center">
-  <img src="https://img.shields.io/badge/LLM-FF69B4?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-FF69B4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge&logo=knowledgebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OCR-FF4500?style=for-the-badge&logo=tesseract&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Image%20Classification-008080?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Object%20Detection-006400?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Image%20Segmentation-800080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM-2E8B57?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-4682B4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-9370DB?style=for-the-badge&logo=knowledgebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
-### 📚 AI/ML Tools & Libraries
+---
+
+## 🧰 AI/ML Tools & Libraries
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -52,12 +50,17 @@ I’m eager to learn, experiment, and collaborate with like-minded individuals i
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
-### 🗄 Databases
+---
+
+## 🗄 Databases
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF9900?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
-### 🛠 Developer Tools
+---
+
+## 🧪 Tools & Development
 <p align="center">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
